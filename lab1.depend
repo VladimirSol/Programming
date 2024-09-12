@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1584603125 source:c:\users\Владимир\documents\123\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	"Product.h"
+
+1584603235 c:\users\Владимир\documents\123\product.h
+
+1584603235 source:c:\users\Владимир\documents\123\product.cpp
+	<iostream>
+	<locale>
+	<string>
+	"Product.h"
+
+1584937100 source:c:\users\Владимир\documents\lab1\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	"Product.h"
+
+1584870253 c:\users\Владимир\documents\lab1\product.h
+
+1584937009 source:c:\users\Владимир\documents\lab1\product.cpp
+	<iostream>
+	<locale>
+	<string>
+	"Product.h"
+
+1584937100 source:c:\users\Владимир\desktop\Учёба\Лабораторная работа №1,2\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	"Product.h"
+
+1584870253 c:\users\Владимир\desktop\Учёба\Лабораторная работа №1,2\product.h
+
+1584937009 source:c:\users\Владимир\desktop\Учёба\Лабораторная работа №1,2\product.cpp
+	<iostream>
+	<locale>
+	<string>
+	"Product.h"
+
